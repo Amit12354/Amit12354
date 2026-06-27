@@ -1,56 +1,163 @@
 <div align="center">
 
-# 🚀 Amit Kumar Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Amit%20Kumar%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### Full Stack Developer • MERN Stack Enthusiast • Problem Solver
+# 👋 Hi, I'm Amit Kumar Singh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Amit+Kumar;MERN+Stack+Developer;Backend+Focused+Engineer;DSA+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀"/>
+### 🚀 Computer Science Student | Full Stack Developer | Problem Solver
 
-<img src="https://komarev.com/ghpvc/?username=Amit05584&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;MERN+Stack+Developer;AI+%26+Web+Development+Enthusiast;Problem+Solver+%7C+Lifelong+Learner;Future+Software+Engineer+🚀"/>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
+
+🎓 B.Tech (CSE) Student at **Vivekananda Global University, Jaipur**
+
+📈 Current CGPA: **8.0**
+
+💻 Passionate about Full Stack Development and Backend Engineering
+
+🧠 Strong foundation in Data Structures, Algorithms & Problem Solving
+
+🚀 Interested in Software Engineering, AI Applications & Scalable Systems
+
+🌱 Currently Learning:
+
+* Advanced Node.js
+* System Design
+* Next.js
+* Backend Architecture
+
+🎯 Goal: Become a Software Engineer and build impactful products
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:amitkusingh465@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,javascript"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode"/>
+
+</div>
+
+---
+
+# 📚 Computer Science Fundamentals
 
 ```yaml
-Name: Amit Kumar
-Role: Full Stack Developer
-Focus: Backend Development & System Design
-Education: Computer Science Student
-Tech Stack: MERN Stack
-Learning: Advanced Backend & DSA
-Goal: Software Engineer 🚀
+Operating System (OS)
+Database Management System (DBMS)
+Theory of Computation (TOC)
+Software Project Management (SPM)
+Cryptography
+Object Oriented Programming (OOP)
+Data Structures & Algorithms
 ```
 
-* 🔭 Currently building scalable web applications
-* 🌱 Learning System Design & Advanced Node.js
-* 👨‍💻 Passionate about solving real-world problems
-* 💡 Strong interest in Data Structures & Algorithms
-* ⚡ Fun Fact: Chai ☕ + Code 💻 = Productivity 🚀
+---
+
+# 🚀 Featured Projects
+
+## 📄 AI Resume Analyzer
+
+✨ Full Stack AI-powered Resume Analyzer
+
+### Features:
+
+✔ Resume Scoring
+
+✔ Resume Parsing
+
+✔ Job Description Matching
+
+✔ AI Suggestions
+
+✔ Strength Analysis
+
+### Tech Stack:
+
+Next.js • Tailwind CSS • Grok API • Server Actions
 
 ---
 
-## 🌐 Portfolio & Coding Profiles
+## 🤖 AI Chatbot
 
-<div align="center">
+Real-time AI Chat Application
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C9FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-ojqi.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Amit05584-181717?style=for-the-badge\&logo=github)](https://github.com/Amit05584)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/gr2dusI4qO/)
+### Features:
 
-</div>
+✔ Unique Chat Rooms
+
+✔ Instant Messaging
+
+✔ Responsive Interface
+
+✔ Real-Time Synchronization
+
+### Tech Stack:
+
+JavaScript • Node.js • Express.js • Socket.io
 
 ---
 
-# ⚡ Tech Arsenal
+## 🏏 Cricket Game
 
-<div align="center">
+Interactive Browser-Based Cricket Game
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,redux,tailwind,java,python,firebase,git,github,postman,vscode&perline=8"/>
+### Features:
 
-</div>
+✔ Dynamic Scoring System
+
+✔ Match Flow Control
+
+✔ Real-Time Updates
+
+✔ Responsive Design
+
+### Tech Stack:
+
+HTML • CSS • JavaScript
 
 ---
 
@@ -58,98 +165,66 @@ Goal: Software Engineer 🚀
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amit05584&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit05584&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit05584&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amit05584&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit05584&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amit05584&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
 
 </div>
 
 ---
 
-# 📋 GitHub Summary
+# 🔥 Current Focus
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit05584&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Current Journey
-
-```text
-🚀 Building MERN Stack Projects
+```txt
+🚀 Building Full Stack Projects
 📚 Learning System Design
-⚡ Mastering Backend Development
+💻 Strengthening Backend Development
 🧩 Solving DSA Problems Daily
-🎯 Goal → Become a Software Engineer
+🎯 Preparing for Software Engineering Internships
 ```
 
 ---
 
-# 🤝 Connect With Me
+# 🌍 Languages
 
-<div align="center">
+✔ English
 
-<a href="https://github.com/Amit05584">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Amit05584/Amit05584/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+✔ Hindi
 
 ---
 
 <div align="center">
 
-## ⭐ Code • Learn • Build • Repeat
+## ⭐ "Dream Big • Code Daily • Never Stop Learning"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:004E92&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:004E92&height=150&section=footer"/>
 
 </div>
