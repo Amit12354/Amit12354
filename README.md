@@ -1,16 +1,80 @@
-## Hi there 👋
+<!-- 🔥 HERO HEADER (A+ LEVEL) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Amit Kumar%20Singh&fontSize=65&fontColor=ffffff&color=0:000428,50:004e92,100:00c9ff&animation=fadeIn&stroke=00F7FF&strokeWidth=2&fontAlignY=40" />
+</p>
 
-<!--
-**Amit12354/Amit12354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ⚡ TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Amit+Kumar;MERN+Stack+Developer+🔥;Backend+Focused+Engineer;Building+Scalable+Projects+🚀" />
+</p>
 
-Here are some ideas to get you started:
+<!-- 💎 PREMIUM BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Grade-A%2B-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Level-Premium-004e92?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-00c9ff?style=for-the-badge&logo=react"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student  
+- 🔭 Portfolio: https://portfolio-ojqi.vercel.app/  
+- 💻 GitHub: https://github.com/nitish05584  
+- 👯 Working on: E-commerce App  
+- 💬 Ask me: MERN Stack, Backend
+- Leet Code :-https://leetcode.com/u/gr2dusI4qO/ 
+- 📫 Email: devnath8471@gmail.com  
+- ⚡ Fun fact: Chai ☕ → Code 💻
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,tailwind,java,python,firebase,postman&theme=dark"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amit05584&theme=radical&no-frame=true&margin-w=12&row=1"/>
+</p>
+
+---
+
+
+---
+
+
+
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.topcoder.com/members/23456">
+    <img src="https://img.shields.io/badge/Topcoder-blue?style=for-the-badge&logo=topcoder"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitish05584&label=Visitors&color=00f7ff&style=for-the-badge"/>
+  
+</p>
+
+---
+
+<!-- 💫 FOOTER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=NITISH%20KUMAR&fontSize=65&fontColor=ffffff&color=0:FF512F,50:F09819,100:FFD200&animation=fadeIn&stroke=ffffff&strokeWidth=2&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:004e92&height=130&section=footer"/>
+  
+</p>
