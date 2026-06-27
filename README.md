@@ -1,10 +1,12 @@
-# <div align="center">🚀 Amit Kumar</div>
-
 <div align="center">
 
-### Full Stack Developer | MERN Stack Enthusiast | Problem Solver
+# 🚀 Amit Kumar Singh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Amit+Kumar;MERN+Stack+Developer;Backend+Focused+Engineer;Competitive+Programmer;Always+Learning+New+Technologies+🚀"/>
+### Full Stack Developer • MERN Stack Enthusiast • Problem Solver
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Amit+Kumar;MERN+Stack+Developer;Backend+Focused+Engineer;DSA+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀"/>
+
+<img src="https://komarev.com/ghpvc/?username=Amit05584&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -12,119 +14,142 @@
 
 ## 💫 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+```yaml
+Name: Amit Kumar
+Role: Full Stack Developer
+Focus: Backend Development & System Design
+Education: Computer Science Student
+Tech Stack: MERN Stack
+Learning: Advanced Backend & DSA
+Goal: Software Engineer 🚀
+```
 
-🎓 Computer Science Student
-
-💻 Passionate about Full Stack Development
-
-🌱 Currently learning Advanced Backend & System Design
-
-🚀 Building scalable web applications using MERN Stack
-
-🧠 Strong interest in Data Structures & Algorithms
-
-🏆 Solved coding problems on LeetCode
-
-⚡ Fun Fact: I turn coffee ☕ into code 💻
-
-<br clear="both"/>
+* 🔭 Currently building scalable web applications
+* 🌱 Learning System Design & Advanced Node.js
+* 👨‍💻 Passionate about solving real-world problems
+* 💡 Strong interest in Data Structures & Algorithms
+* ⚡ Fun Fact: Chai ☕ + Code 💻 = Productivity 🚀
 
 ---
 
-## 🌐 Portfolio & Profiles
-
-<p align="center">
-<a href="https://portfolio-ojqi.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C9FF?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/Amit05584">
-<img src="https://img.shields.io/badge/GitHub-Amit05584-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/gr2dusI4qO/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-</p>
-
----
-
-## ⚙️ Tech Stack
+## 🌐 Portfolio & Coding Profiles
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,redux,tailwind,java,python,firebase,git,github,postman,vscode&theme=dark"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C9FF?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-ojqi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Amit05584-181717?style=for-the-badge\&logo=github)](https://github.com/Amit05584)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/gr2dusI4qO/)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# ⚡ Tech Arsenal
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amit05584&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit05584&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,redux,tailwind,java,python,firebase,git,github,postman,vscode&perline=8"/>
 
-<p align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit05584&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amit05584&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amit05584&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit05584&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit05584&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amit05584&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 🔥 Current Focus
+# 📈 Contribution Graph
 
-```txt
-📚 Learning : System Design
-🚀 Building : MERN Projects
-💡 Exploring : Backend Architecture
-🏆 Practicing : DSA & LeetCode
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit05584&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amit05584&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📋 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit05584&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 Current Journey
+
+```text
+🚀 Building MERN Stack Projects
+📚 Learning System Design
+⚡ Mastering Backend Development
+🧩 Solving DSA Problems Daily
+🎯 Goal → Become a Software Engineer
 ```
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Amit05584">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 👀 Profile Views
+# 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Amit05584&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
-</p>
+<div align="center">
+
+![Snake animation](https://github.com/Amit05584/Amit05584/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+## ⭐ Code • Learn • Build • Repeat
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:004E92&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:004E92&height=180&section=footer"/>
 
 </div>
